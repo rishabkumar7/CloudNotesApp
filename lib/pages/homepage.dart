@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
       return Scaffold(
         appBar: AppBar(
-          title: Text("Flutter Markdown"),
+          title: Text("Cloud Notes by Rishab"),
           ) ,
           body: FutureBuilder(
             future: rootBundle.loadString("assets/hello.md"),
