@@ -9,7 +9,7 @@ void main() {
       home: MyApp(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        fontFamily: 'Bungee',
+        fontFamily: 'Lucidia Console',
         primaryTextTheme: TextTheme(
           title: TextStyle(color: Colors.yellow, fontSize: 24),
         ),
@@ -20,11 +20,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
   return WebviewScaffold(
-    appBar: AppBar(
+    //appBar: AppBar(
        //replace with your title
-      title: Text("CloudNotes by Rishab"),
-      backgroundColor: Color(252525),
-    ),
+      //title: Text("CloudNotes by Rishab"),
+      //backgroundColor: Color(252525),
+    //),
       //replace with your url
     url: "https://rishabkumar7.github.io/CloudNotes/"
     );
