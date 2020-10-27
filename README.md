@@ -5,7 +5,7 @@ This is the Flutter version of [CloudNotes](https://rishabkumar7.github.io/Cloud
 For now it is same as the web version of CLoudNotes, will improe it down the road as I learn Flutter.
 
 ## Android
-[Android.png](./screenshot/Android.png)
+![Android.png](/screenshots/Android.png)
 
 ## Getting Started
 
