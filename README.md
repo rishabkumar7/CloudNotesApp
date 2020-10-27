@@ -1,6 +1,11 @@
 # cloudnotesapp
 
-A new Flutter project.
+This is the Flutter version of [CloudNotes](https://rishabkumar7.github.io/CloudNotes/)
+
+For now it is same as the web version of CLoudNotes, will improe it down the road as I learn Flutter.
+
+## Android
+[Android.png](./screenshot/Android.png)
 
 ## Getting Started
 
